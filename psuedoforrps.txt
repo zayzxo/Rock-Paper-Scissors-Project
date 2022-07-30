@@ -1,0 +1,11 @@
+Make the computer choice a random choice from a array getComputerChoice function--DOne
+Create computerSelection function to get choice from getComputerChoice function 
+
+Create playerSelection function that asks the user for a answer-make user answer case sensitive and only allowed to put rock,paper,scissors
+
+create a playRound function to play one round of rock paper scissors against computer
+
+
+
+
+create a loop for rock paper scissors game
