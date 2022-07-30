@@ -14,4 +14,4 @@ function playRound(playerChoice, computerChoice) {
 }
 console.log(playRound(playerChoice, computerChoice));
 //function playerSelection(playerAnswer) {
-//playerAnswer = prompt("Rock, Paper, Scissors?");
+//playerAnswer = prompt("Rock, Paper, Scissors?");/
